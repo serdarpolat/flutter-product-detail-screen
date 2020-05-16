@@ -1,7 +1,7 @@
 # Flutter - Product Detail Screen
 
 ### Click on creenshot to watch Youtube video
-(fender1080.gif)](https://youtu.be/fHYrtrwwn1w)
+[![IMAGE ALT TEXT HERE](fender1080.gif)](https://youtu.be/fHYrtrwwn1w)
 
 A new Flutter project.
 
